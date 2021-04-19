@@ -1,0 +1,2 @@
+# DiscordRPC-template
+DiscordRPC-template
