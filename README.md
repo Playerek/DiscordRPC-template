@@ -41,4 +41,12 @@ client.login({ clientId : IDaplikacji }).catch(console.error);
 8. W wierszu polecenia wpisz `npm i` i poczekaj na zainstalowanie modułów,
 9. Aby włączyć program użyj polecenia `node .` lub `node index.js`.
 
+## Jak dodać obrazek?
+1. Wejdź na [discord.com/developers](https://discord.com/developers) i wybierz swoją aplikację,
+2. W zakładce **Rich Presence** kliknij `Add Image(s)`, wybierz obraz i go nazwij,
+3. W kodzie w nawiasach przy `large_image` wpisz nazwę obrazka,
+4. Włącz status.
+
+Jeżeli obrazek nie wyświetla się, poczekaj do 10 minut.
+
 [Kontakt](https://discord.com/users/684739865598099490) **|** [Licencja](LICENSE)
