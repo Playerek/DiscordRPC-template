@@ -1,0 +1,14 @@
+{
+  "name": "discordrpc-template",
+  "version": "1.0.0",
+  "description": "discordRPC-template",
+  "main": "index.js",
+  "author": "Playerek",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord-rpc": "^3.2.0"
+  }
+}
