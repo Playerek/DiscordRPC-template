@@ -1,5 +1,5 @@
 # DiscordRPC-template
-Witaj! To jest przykładowy program do wyświetlania statusu napisany w JavaScript z wykorzystaniem biblioteki [discord-rpc](https://www.npmjs.com/package/discord-rpc).
+To jest przykładowy program do wyświetlania statusu napisany w JavaScript z wykorzystaniem biblioteki [discord-rpc](https://www.npmjs.com/package/discord-rpc).
 
 ## Przykładowa edycja:
 ```javascript
