@@ -17,7 +17,7 @@ client.on('ready', () => {
             large_image : "owieczka", 
             large_text : "Owieczka Community"
             },
-            buttons : [{label : "Zaproszenie", url : "https://discord.gg/FaufFzNSSB"}]
+            buttons : [{label : "Zaproszenie", url : "https://discord.gg/owieczka"}]
         }
     }).then(x => {
         console.log(`Status jest wyświetlany przy pomocy aplikacji ${x.name}!`)
